@@ -27,6 +27,12 @@
     <ClCompile Include="..\..\src\jmgl_nv_intel_dec.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\src\jmgl_video_dec.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\anyoption.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\src\jmgl_ff_player.h">
@@ -45,6 +51,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="..\..\src\jmgl_nv_intel_dec.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\jmgl_video_dec.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\anyoption.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

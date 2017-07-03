@@ -144,18 +144,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\src\anyoption.cpp" />
     <ClCompile Include="..\..\src\jmgl_ff_player.cpp" />
     <ClCompile Include="..\..\src\jmgl_nv_intel_dec.cpp" />
     <ClCompile Include="..\..\src\jmgl_opengl.cpp" />
     <ClCompile Include="..\..\src\jmgl_player.cpp" />
+    <ClCompile Include="..\..\src\jmgl_video_dec.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\src\anyoption.h" />
     <ClInclude Include="..\..\src\jmgl_ff_player.h" />
     <ClInclude Include="..\..\src\jmgl_headers.h" />
     <ClInclude Include="..\..\src\jmgl_image.h" />
     <ClInclude Include="..\..\src\jmgl_nv_intel_dec.h" />
     <ClInclude Include="..\..\src\jmgl_opengl.h" />
     <ClInclude Include="..\..\src\jmgl_shader.h" />
+    <ClInclude Include="..\..\src\jmgl_video_dec.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

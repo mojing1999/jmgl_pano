@@ -117,4 +117,7 @@ JMDLL_FUNC int jm_intel_dec_free_buf_len(handle_inteldec handle);
  */
 JMDLL_FUNC bool jm_intel_dec_is_exit(handle_inteldec handle);
 
+
+JMDLL_FUNC bool jm_intel_is_hw_support();
+
 #endif	//_JM_INTEL_DECODER_H_
