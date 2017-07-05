@@ -50,6 +50,13 @@ int main(int argc, char **argv)
 	AnyOption *opt = new AnyOption();
 	opt->addUsage("Simple Panorama player, implemented by Justin Mo(mojing1999@gmail.com).");
 	opt->addUsage("\tBase on OpenGL, NV CUDA decode, Intel Media SDK and FFmpeg.");
+	opt->addUsage("Support view mode:");
+	opt->addUsage("\tF1. Rectilinear");
+	opt->addUsage("\tF2. Mirror Ball");
+	opt->addUsage("\tF3. Fisheye");	
+	opt->addUsage("\tF4. Little Planet");
+	opt->addUsage("\t\'a\' Auto rotation");
+	opt->addUsage("\t\'t\' Stop auto rotation");
 	opt->addUsage("");
 	opt->addUsage("Usage: jmgl_pano [options] input_file");
 	opt->addUsage("");
