@@ -4,12 +4,12 @@ OpenGL Panorama Player.
 
 star_war_eve source 1
 
-![Source1](http://www.justinmo.video/media/pano_source1.png)
+![Source1](http://www.justinmo.video/media/pano_source1.jpg)
 
 
 star_war_eve source 2
 
-![Source1](http://www.justinmo.video/media/pano_source2.png)
+![Source1](http://www.justinmo.video/media/pano_source2.jpg)
 
 ## 1. 介绍
 JMGL_PANO 是Justin开源的一个全景视频播放器（[Github](https://github.com/mojing1999/jmgl_pano)）。基于硬件加速的视频解码和OpenGL渲染。仅供个人学习使用，商业使用请联系作者(Justin's Email: mojing1999@gmail.com)
@@ -51,19 +51,19 @@ JMGL_PANO 是Justin开源的一个全景视频播放器（[Github](https://githu
 ## 程序截图
 - 全景预览
 
-![rectilinear](http://www.justinmo.video/media/pano_rectilinear.png)
+![rectilinear](http://www.justinmo.video/media/pano_rectilinear.jpg)
 
 - 水晶球
 
-![mirror](http://www.justinmo.video/media/pano_mirror_ball.png)
+![mirror](http://www.justinmo.video/media/pano_mirror_ball.jpg)
 
 - 鱼眼
 
-![fisheye](http://www.justinmo.video/media/pano_fisheye.png)
+![fisheye](http://www.justinmo.video/media/pano_fisheye.jpg)
 
 - 小行星
 
-![planet](http://www.justinmo.video/media/pano_little_planet.png)
+![planet](http://www.justinmo.video/media/pano_little_planet.jpg)
 
 
 
